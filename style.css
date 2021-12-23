@@ -1,0 +1,37 @@
+#container{
+    height: 225px;
+    width: 550px;
+    background-color: white;
+    border: #000000 solid;
+    font-family: cursive;
+}
+
+.top{
+    height:30%;
+    width: 550px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.bottom{
+    height: 50%;
+    width: 500px;
+    background-color: white
+
+}
+
+#l{
+    height: 20px;
+    width: 50px;
+    background-color: rgb(224, 211, 24);
+    box-shadow: 4px 4px 0px 0px black;
+    border: 1px black solid;
+    margin-right: 100px;
+}
+
+#count{
+    height: 20px;
+    width: 70px;
+}
